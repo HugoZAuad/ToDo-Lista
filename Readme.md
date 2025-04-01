@@ -28,3 +28,7 @@ Contribuições para melhorias no projeto são sempre bem-vindas! Siga os seguin
 ## Licença
 
 Este projeto está sob a licença MIT, permitindo uso livre desde que os devidos créditos sejam dados.
+
+## Deploy
+
+to-do-listas.vercel.app
